@@ -1,6 +1,6 @@
 # Llama3-Flask AI RAG Application 
 
-This repository contains a Flask-based API for document searching and retrieval using various language models and vector embeddings.
+This repository contains a Flask-based API for Interactive Query, document searching and retrieval using various language models and vector embeddings.
 
 ## Features
 
